@@ -42,4 +42,4 @@ There are many ways to improve this project few of them are , Eg. there are othe
 Improvement of supervised model can be tested by using PCA dimensionality reduction. We could also choose attributes that have the most difference in clustering for overrepresented and underrepresented data and build supervised model using only these attributes.
 
 ## Acknowledgements
-Thanks [Udacity](https://www.udacity.com/)and [Arvato](https://www.bertelsmann.com/divisions/arvato/#st-1) for providing these apportunity to organize this project.
+Thanks [Udacity](https://www.udacity.com/) and [Arvato](https://www.bertelsmann.com/divisions/arvato/#st-1) for providing these apportunity to organize this project.
