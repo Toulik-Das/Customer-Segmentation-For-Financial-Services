@@ -34,6 +34,7 @@ To increase accuracy of the project we could follow following steps:
 - Drop some variables by using correlation coefficient matrix to avoid the collinearity issue.
 - Increase the threshold to drop rows and columns.
 - Use other algorithms and try more parameters in the GridSearch.
+
 There are many ways to improve this project few of them are , Eg. there are other ways to preprocess the data: choose another threshold for dropping rows and columns, choose different transformations for the columns, apply MinMax Scaler instead of Standard Scaler, impute data in another way.
 Improvement of supervised model can be tested by using PCA dimensionality reduction. We could also choose attributes that have the most difference in clustering for overrepresented and underrepresented data and build supervised model using only these attributes.
 
