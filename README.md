@@ -14,6 +14,16 @@ In this project, I analyzed the demographic data for customers of a mail-order s
 ## Problem statement
 The problem here is that Arvato company needs to know the audiences that are more likely to become a customer to work towards achieving it’s goals in marketing. Thus, on this project, I am aiming to predict the audiences who are most likely to become a customer. I will approach this problem by first pre-processing the datasets. second, I will use unsupervised learning techniques to create clusters of customer and general population, and then identify the difference. Finally, I will predict whether or not a person will become a customer of Arvato or not.
 
+## Summary:
+This challenge was provided by Arvato Financial Solutions for the Udacity Data Science Nanodegree Program for Term 2. This is one of the possible capstone projects.
+
+There were three major steps in the project:
+
+- Customer Segmentation Report - This analyzed demographics data for customers of a mail-order sales company in Germany, comparing it against demographics information for the general population. This used unsupervised learning techniques to perform customer segmentation, identifying the parts of the population that best describe the core customer base of the company. 
+
+- Supervised Learning Model -This used the previous analysis to build a machine learning model that predicts whether or not each individual will respond to the campaign.
+
+- Kaggle Competition - This used the chosen model to make predictions on the campaign data as part of a Kaggle Competition and see how it measures up to the other fellow students.
 
 
 ## Results
