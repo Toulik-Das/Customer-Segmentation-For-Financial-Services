@@ -18,3 +18,6 @@ The problem here is that Arvato company needs to know the audiences that are mor
 
 ## Results
 The main findings of the code can be found at the post available [here](https://medium.com/@dastoulik12/customer-segmentation-report-for-arvato-financial-services-1f8777f8cb45).
+
+## Acknowledgements
+Thanks Udacity and Arvato for providing these apportunity to organize this project.
