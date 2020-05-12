@@ -28,7 +28,10 @@ There were three major steps in the project:
 
 - Kaggle Competition - This used the chosen model to make predictions on the campaign data as part of a Kaggle Competition and see how it measures up to the other fellow students.
 
-
+## Metrics
+For XGBRegressor, the training score keeps decreasing, and the testing score keeps increasing. While for the RandomForestRegressor, the training score remains constant at a high level and the cross-validation score is low. It is clear that the best model is XGBRegressor because the RandomForestRegressor overfits the data.
+![download (8)](https://user-images.githubusercontent.com/39211262/81636042-690ca980-9430-11ea-8e54-d76c3921a2aa.png)
+![download (9)](https://user-images.githubusercontent.com/39211262/81636045-6ad66d00-9430-11ea-9cbf-dacd3d0d6927.png)
 ## Results
 The main findings of the code can be found at the post available [here](https://medium.com/@dastoulik12/customer-segmentation-report-for-arvato-financial-services-1f8777f8cb45).
 
