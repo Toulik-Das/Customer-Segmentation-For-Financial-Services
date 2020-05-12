@@ -33,6 +33,9 @@ For XGBRegressor, the training score keeps decreasing, and the testing score kee
 ![download (8)](https://user-images.githubusercontent.com/39211262/81636042-690ca980-9430-11ea-8e54-d76c3921a2aa.png)
 ![download (9)](https://user-images.githubusercontent.com/39211262/81636045-6ad66d00-9430-11ea-9cbf-dacd3d0d6927.png)
 ## Results
+![Capture](https://user-images.githubusercontent.com/39211262/81639877-cad21100-943a-11ea-8853-6cd954712092.PNG)
+From quick comparison of above charts, we can see drastic difference in the distribution of the most important feature "D19_SOZIALES". In Cluster 5 the over represented cluster of customer, there is a single bar and in Cluster 10 under represented cluster of customer there is a distribution and not a consolidation in 1 particular value
+
 The main findings of the code can be found at the post available [here](https://medium.com/@dastoulik12/customer-segmentation-report-for-arvato-financial-services-1f8777f8cb45).
 
 ## Improvements
