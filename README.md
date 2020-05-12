@@ -35,7 +35,7 @@ For XGBRegressor, the training score keeps decreasing, and the testing score kee
 ## Results
 ![Capture](https://user-images.githubusercontent.com/39211262/81639877-cad21100-943a-11ea-8853-6cd954712092.PNG)
 
-From quick comparison of above charts, we can see drastic difference in the distribution of the most important feature "D19_SOZIALES". In Cluster 5 the over represented cluster of customer, there is a single bar and in Cluster 10 under represented cluster of customer there is a distribution and not a consolidation in 1 particular value.
+From comparison of above charts, we can see drastic difference in the distribution of the most important feature "D19_SOZIALES". In Cluster 5 the over represented cluster of customer, there is a single bar and in Cluster 10 under represented cluster of customer there is a distribution and not a consolidation in 1 particular value.
 Finally the predicted responses are shown below,The first column contains "LNR", which acts as an ID number for each individual in the "TEST" partition.The second column, "RESPONSE", measure of how likely each individual became a customer 
 
 ![Capture2](https://user-images.githubusercontent.com/39211262/81639884-ce659800-943a-11ea-97a5-8bc404253739.PNG)
