@@ -42,6 +42,7 @@ Finally the predicted responses are shown below,The first column contains "LNR",
 ![Capture2](https://user-images.githubusercontent.com/39211262/81639884-ce659800-943a-11ea-97a5-8bc404253739.PNG)
 
 The main findings of the code can be found at the post available [here](https://medium.com/@dastoulik12/customer-segmentation-report-for-arvato-financial-services-1f8777f8cb45).
+
 ![1_OuE8tRhfOp0ZnGWtwllfPw](https://user-images.githubusercontent.com/39211262/81965243-64651280-9635-11ea-8219-0bcdc66a7b65.png)
 
 ## Improvements
